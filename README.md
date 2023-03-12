@@ -14,3 +14,10 @@ Automatic music transcription using deep learning
 
 * [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 * [CSD](https://zenodo.org/record/4785016#.ZA3ghOzMK3I)
+
+
+
+
+This project is licensed under the MIT License. You can find the full text of the license in the `LICENSE` file.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
